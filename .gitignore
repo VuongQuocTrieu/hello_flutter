@@ -1,5 +1,7 @@
 /config.php
 /log/*
+!/log/access.txt
+
 
 
 # Miscellaneous
